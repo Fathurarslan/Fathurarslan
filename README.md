@@ -12,7 +12,7 @@
 
 ## 👤 Introduction
 
-Halo! Saya **Muhammad Fathurrahman Alf Arslan**, seorang mahasiswa **Teknik Informatika** di **Universitas Negeri Surabaya (UNESA)**. Saya tertarik dengan pengembangan web dan sedang terus mengasah kemampuan saya di dunia programming, khususnya di sisi **front-end** maupun **back-end**. Saat ini saya juga sedang menjalani program **Studi Independen (MBKM)**, mengerjakan proyek pembuatan website profil untuk sebuah kelurahan.
+Halo! Saya **Muhammad Fathurrahman Alf Arslan**, seorang mahasiswa **Teknik Informatika** di **Universitas Negeri Surabaya (UNESA)**. Saya tertarik dengan pengembangan web dan sedang terus mengasah kemampuan saya di dunia programming, khususnya di sisi **front-end** maupun **back-end**. Saat ini saya sedang mengikuti program **Studi Independen di Infinite Learning**, dan sebagai bagian dari **MBKM Berdampak**, saya sedang mengerjakan proyek pembuatan website profil untuk sebuah kelurahan.
 
 Saya senang membangun hal-hal baru, belajar teknologi terkini, dan berkolaborasi dalam proyek yang menantang.
 
