@@ -48,8 +48,6 @@ Saya senang membangun hal-hal baru, belajar teknologi terkini, dan berkolaborasi
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-> 💡 *Sesuaikan badge di atas dengan tools/framework yang benar-benar kamu kuasai.*
-
 ---
 
 ## 🌐 Social Media
